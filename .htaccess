@@ -1,3 +1,4 @@
+#basic
 AuthType Basic
 AuthUserFile .htpasswd
 AuthGroupFile /dev/null
