@@ -1,6 +1,6 @@
 #basic
 AuthType Basic
-AuthUserFile .htpasswd
+AuthUserFile /.htpasswd
 AuthGroupFile /dev/null
 AuthName "Login Password Required"
 Require valid-user
